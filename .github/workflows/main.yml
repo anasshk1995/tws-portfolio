@@ -1,5 +1,5 @@
 
-name: Portfolio Deployment Anas
+name: Portfolio Deployment
 
 on:
   push:
